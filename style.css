@@ -1,0 +1,24 @@
+.main {
+    padding: 5vmin 5vmin;
+    text-align: center;
+ }
+ 
+ h2 {
+     padding-top: 5vmin;
+     font-style: bold;
+     font-weight: 600;
+     font-size: 10vmin;
+ }
+ 
+ p {
+     padding-top: 3vmin;
+     font-size: 4vmin;
+     color: gray;
+ }
+ 
+ img {
+    width: 100%;
+    height: 100%;
+    display: block;
+     padding: 5vmin 2.5vmin;
+ }
